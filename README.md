@@ -10,7 +10,7 @@ Abra `index.html` diretamente; sem dependências ou compilação.
 
 - Meta de **5.000 peças passadas por dia**, compartilhada pela equipe da máquina.
 - Visões diária, semanal, mensal e intervalo personalizado. Produtividade = peças no período / (5.000 × dias planejados) × 100. Ajuste os dias planejados para descontar folgas. O valor inicial é a duração em dias corridos.
-- Seletor suspenso com marcação múltipla de responsáveis: nenhuma seleção mostra geral; apenas Elias ou Rafael mostra registros individuais; ambos mostram registros conjuntos. Não há divisão fictícia da produção. Os registros originais são associados à equipe, com responsável editável na tabela.
+- Seletor suspenso com marcação múltipla de responsáveis: nenhuma seleção mostra geral; selecionar Elias ou Rafael inclui qualquer registro com a participação da pessoa, inclusive os conjuntos; ambos mostram a união dos registros, sem duplicação. Não há divisão fictícia da produção. Os registros originais são associados à equipe, com responsável editável na tabela.
 - Data por registro e atribuição em lote a linhas filtradas sem data. Não foram inventadas datas a partir das anotações ambíguas.
 - Filtros por lote, tamanho, cor e conferência; gráficos e exportação CSV.
 - Indicadores de defeitos e taxa de defeitos. Anotações `/ N` de até 20 significam defeitos. Sem anotação = não informado, nunca zero presumido.
